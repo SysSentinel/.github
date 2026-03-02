@@ -127,23 +127,19 @@ O objetivo do SysSentinel é servir como:
 
 ## Galeria de Fotos
 
-- Login
-  
-> <img width="609" height="272"  alt="login" src="https://github.com/user-attachments/assets/e53ab9dd-947c-4c92-868f-1434e7bbbc3a" />
-
-- Pagina de registro
+- Pagina de registro de Sistemas
 
 > <img width="609" height="272"  alt="registerUUID" src="https://github.com/user-attachments/assets/f7ce96e0-92f3-40b9-8638-c13ebb101b8b" />
 
-- Pagina dos Sistemas
+- Pagina da lista de Sistemas
 
 > <img width="609" height="272"  alt="SystemsPage" src="https://github.com/user-attachments/assets/11593a85-2438-4ea1-9450-7e9bf75c17dc" />
 
-- Pagina de detalhes do sistemas (Parte 1)
+- Pagina de detalhes do sistema (Parte 1)
 
 > <img width="609" height="272"  alt="details1" src="https://github.com/user-attachments/assets/8bc3803b-bcb7-45e7-843b-98f52ade3255" />
 
-- Pagina de detalhes do sistemas (Parte 2)
+- Pagina de detalhes do sistema (Parte 2)
   
 > <img width="609" height="272" alt="details2" src="https://github.com/user-attachments/assets/d9a2bebb-5ed0-4ea9-aa78-d98572d1bb60" />
 
