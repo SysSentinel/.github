@@ -1,4 +1,4 @@
-<img width="609" height="272" alt="Screenshot 2026-03-02 at 12-46-07 SysSentinel" src="https://github.com/user-attachments/assets/0f62a484-97c6-4f95-9c04-6b54b305aad7" />
+<img width="456" height="190" alt="Screenshot 2026-03-02 at 12-46-07 SysSentinel" src="https://github.com/user-attachments/assets/0f62a484-97c6-4f95-9c04-6b54b305aad7" />
 
 # SysSentinel
 
