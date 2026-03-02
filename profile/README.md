@@ -137,7 +137,7 @@ O objetivo do SysSentinel é servir como:
 
 - Pagina de detalhes do sistema (Parte 1)
 
-> <img width="609" height="272"  alt="details1" src="https://github.com/user-attachments/assets/8bc3803b-bcb7-45e7-843b-98f52ade3255" />
+> <img width="609" height="272" alt="details1" src="https://github.com/user-attachments/assets/5ebeb5bf-8352-41bb-9eb7-a15e5898c5a1" />
 
 - Pagina de detalhes do sistema (Parte 2)
   
