@@ -3,6 +3,10 @@
 
 SysSentinel é uma solução distribuída para monitoramento de máquinas em redes locais (LAN/VPN), composta por um servidor central e clientes leves instalados nos hosts monitorados.
 
+> Servidor ->   [SysSentinel-Server](https://github.com/SysSentinel/SysSentinel-Server/)
+
+> Cliente  ->   [SysSentinel-Client](https://github.com/SysSentinel/SysSentinel-Client/)
+
 O projeto foi desenvolvido com foco em:
 
 * Monitoramento em tempo real
@@ -10,6 +14,20 @@ O projeto foi desenvolvido com foco em:
 * Arquitetura modular
 * Baixo consumo de recursos no cliente
 * Facilidade de expansão
+
+---
+
+## Índice
+
+* [Arquitetura Geral](#arquitetura-geral)
+
+  * [1. SysSentinel-Server](#1-syssentinel-server)
+  * [2. SysSentinel-Client](#2-syssentinel-client)
+* [Fluxo de Comunicação](#fluxo-de-comunicação)
+* [Segurança](#segurança)
+* [Estrutura da Organização](#estrutura-da-organização)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Licença](#licença)
 
 ---
 
