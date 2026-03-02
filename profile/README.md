@@ -2,7 +2,7 @@
 
 # SysSentinel
 
-SysSentinel é uma solução distribuída para monitoramento de máquinas em redes locais (LAN/VPN), composta por um servidor central e clientes leves instalados nos em sistemas monitorados.
+SysSentinel é uma solução distribuída para monitoramento de máquinas em redes locais (LAN/VPN), composta por um servidor central e clientes leves instalados em sistemas monitorados.
 
 O projeto foi desenvolvido com foco em:
 
